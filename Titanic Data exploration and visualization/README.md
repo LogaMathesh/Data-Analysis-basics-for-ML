@@ -9,6 +9,6 @@ This project is a beginner-friendly walkthrough of data cleaning and analysis us
 - Exporting cleaned dataset
 
 ## Folder Structure
-- `data/raw/`: Original dataset from Kaggle
-- `data/processed/`: Cleaned dataset after analysis
-- `notebooks/`: Jupyter notebook containing analysis
+- `Dataset/raw dataset/`: Original dataset from Kaggle
+- `Dataset/ Titanic/`: Cleaned dataset after analysis
+- `notebooks/`: ipynb file in VSCode
